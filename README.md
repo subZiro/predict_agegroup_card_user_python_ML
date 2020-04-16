@@ -2,7 +2,7 @@
 предсказание возростной группы по покупкам
 
 
-### Final score: 0,0 (place:None)
+### Final score: 0,6167 (place:12)
 	Best Public score: 0,6167
 	Best Private score: 0,0
 
