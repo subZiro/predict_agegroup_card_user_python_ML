@@ -3,7 +3,7 @@
 
 
 ### Final score: 0,0 (place:None)
-	Best Public score: 0,06144
+	Best Public score: 0,6167
 	Best Private score: 0,0
 
 
@@ -29,7 +29,12 @@
 	model_v3.ipynb - Модель, обработка данных и предсказание модели в одном файле. 
 	Лучший результат на GradientBoostingClassifier() - Public = 0,6144
 	
-	submission_052249.csv - результат предсказания Public = 0,6144, Private = 0,0
+	model_v5.ipynb - Модель, обработка данных и предсказание модели в одном файле. 
+	Лучший результат на LGB() - Public = 0,6167
+	
+	submission_052249.csv - результат предсказания GBC() Public = 0,6144, Private = 0,0
+	
+	submission_160044.csv - результат предсказания LGB() Public = 0,6167, Private = 0,0
 
 
 
